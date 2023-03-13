@@ -7,18 +7,50 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		5CD2A71E29BACC3B009DEBE7 /* MiniCard.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A71D29BACC3B009DEBE7 /* MiniCard.swift */; };
+		5CD2A72029BAD48F009DEBE7 /* CardFan.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A71F29BAD48F009DEBE7 /* CardFan.swift */; };
+		5CD2A72229BB0666009DEBE7 /* ContentViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A72129BB0666009DEBE7 /* ContentViewModel.swift */; };
+		5CD2A72429BB204C009DEBE7 /* LiyAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A72329BB204C009DEBE7 /* LiyAnimation.swift */; };
+		5CD2A72729BEDD30009DEBE7 /* DeckView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A72629BEDD30009DEBE7 /* DeckView.swift */; };
+		5CD2A72929BEDD62009DEBE7 /* DeckViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A72829BEDD62009DEBE7 /* DeckViewModel.swift */; };
+		5CD2A72B29BF036A009DEBE7 /* DeckStatistic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CD2A72A29BF036A009DEBE7 /* DeckStatistic.swift */; };
 		5CEDEF6F29B9AD980074047D /* AnimalizationApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF6E29B9AD980074047D /* AnimalizationApp.swift */; };
 		5CEDEF7129B9AD980074047D /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF7029B9AD980074047D /* ContentView.swift */; };
 		5CEDEF7329B9AD9A0074047D /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CEDEF7229B9AD9A0074047D /* Assets.xcassets */; };
 		5CEDEF7629B9AD9A0074047D /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5CEDEF7529B9AD9A0074047D /* Preview Assets.xcassets */; };
+		5CEDEF8229B9D6670074047D /* cardData.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8029B9D6670074047D /* cardData.json */; };
+		5CEDEF8329B9D6670074047D /* decks.json in Resources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8129B9D6670074047D /* decks.json */; };
+		5CEDEF8629B9D7C70074047D /* FrontCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8529B9D7C70074047D /* FrontCardView.swift */; };
+		5CEDEF8929B9D7F40074047D /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8829B9D7F40074047D /* Constants.swift */; };
+		5CEDEF8B29B9D9D20074047D /* Animal.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8A29B9D9D20074047D /* Animal.swift */; };
+		5CEDEF8D29B9D9DF0074047D /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8C29B9D9DF0074047D /* Deck.swift */; };
+		5CEDEF9029B9DB4B0074047D /* BundleExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF8F29B9DB4B0074047D /* BundleExtension.swift */; };
+		5CEDEF9329BABFAD0074047D /* CardModifier.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF9229BABFAD0074047D /* CardModifier.swift */; };
+		5CEDEF9529BAC0660074047D /* BackCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5CEDEF9429BAC0660074047D /* BackCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		5CD2A71D29BACC3B009DEBE7 /* MiniCard.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MiniCard.swift; sourceTree = "<group>"; };
+		5CD2A71F29BAD48F009DEBE7 /* CardFan.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardFan.swift; sourceTree = "<group>"; };
+		5CD2A72129BB0666009DEBE7 /* ContentViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentViewModel.swift; sourceTree = "<group>"; };
+		5CD2A72329BB204C009DEBE7 /* LiyAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LiyAnimation.swift; sourceTree = "<group>"; };
+		5CD2A72629BEDD30009DEBE7 /* DeckView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckView.swift; sourceTree = "<group>"; };
+		5CD2A72829BEDD62009DEBE7 /* DeckViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckViewModel.swift; sourceTree = "<group>"; };
+		5CD2A72A29BF036A009DEBE7 /* DeckStatistic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DeckStatistic.swift; sourceTree = "<group>"; };
 		5CEDEF6B29B9AD980074047D /* Animalization.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Animalization.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5CEDEF6E29B9AD980074047D /* AnimalizationApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimalizationApp.swift; sourceTree = "<group>"; };
 		5CEDEF7029B9AD980074047D /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5CEDEF7229B9AD9A0074047D /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5CEDEF7529B9AD9A0074047D /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5CEDEF8029B9D6670074047D /* cardData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = cardData.json; sourceTree = "<group>"; };
+		5CEDEF8129B9D6670074047D /* decks.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = decks.json; sourceTree = "<group>"; };
+		5CEDEF8529B9D7C70074047D /* FrontCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrontCardView.swift; sourceTree = "<group>"; };
+		5CEDEF8829B9D7F40074047D /* Constants.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		5CEDEF8A29B9D9D20074047D /* Animal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Animal.swift; sourceTree = "<group>"; };
+		5CEDEF8C29B9D9DF0074047D /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
+		5CEDEF8F29B9DB4B0074047D /* BundleExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BundleExtension.swift; sourceTree = "<group>"; };
+		5CEDEF9229BABFAD0074047D /* CardModifier.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardModifier.swift; sourceTree = "<group>"; };
+		5CEDEF9429BAC0660074047D /* BackCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +64,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		5CD2A72529BEDD1E009DEBE7 /* Decks */ = {
+			isa = PBXGroup;
+			children = (
+				5CD2A72629BEDD30009DEBE7 /* DeckView.swift */,
+			);
+			path = Decks;
+			sourceTree = "<group>";
+		};
 		5CEDEF6229B9AD980074047D = {
 			isa = PBXGroup;
 			children = (
@@ -52,7 +92,13 @@
 			isa = PBXGroup;
 			children = (
 				5CEDEF6E29B9AD980074047D /* AnimalizationApp.swift */,
-				5CEDEF7029B9AD980074047D /* ContentView.swift */,
+				5CEDEF7F29B9C8160074047D /* Data */,
+				5CEDEF7E29B9C7FC0074047D /* Models */,
+				5CEDEF7C29B9C7E70074047D /* Views */,
+				5CEDEF7D29B9C7F00074047D /* View Models */,
+				5CEDEF8729B9D7E30074047D /* Helpers */,
+				5CEDEF8E29B9DB0C0074047D /* Extensions */,
+				5CEDEF9129BABF8F0074047D /* Modifiers */,
 				5CEDEF7229B9AD9A0074047D /* Assets.xcassets */,
 				5CEDEF7429B9AD9A0074047D /* Preview Content */,
 			);
@@ -65,6 +111,80 @@
 				5CEDEF7529B9AD9A0074047D /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		5CEDEF7C29B9C7E70074047D /* Views */ = {
+			isa = PBXGroup;
+			children = (
+				5CD2A72529BEDD1E009DEBE7 /* Decks */,
+				5CEDEF8429B9D7B20074047D /* Cards */,
+				5CEDEF7029B9AD980074047D /* ContentView.swift */,
+			);
+			path = Views;
+			sourceTree = "<group>";
+		};
+		5CEDEF7D29B9C7F00074047D /* View Models */ = {
+			isa = PBXGroup;
+			children = (
+				5CD2A72129BB0666009DEBE7 /* ContentViewModel.swift */,
+				5CD2A72829BEDD62009DEBE7 /* DeckViewModel.swift */,
+			);
+			path = "View Models";
+			sourceTree = "<group>";
+		};
+		5CEDEF7E29B9C7FC0074047D /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF8A29B9D9D20074047D /* Animal.swift */,
+				5CEDEF8C29B9D9DF0074047D /* Deck.swift */,
+				5CD2A72A29BF036A009DEBE7 /* DeckStatistic.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		5CEDEF7F29B9C8160074047D /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF8029B9D6670074047D /* cardData.json */,
+				5CEDEF8129B9D6670074047D /* decks.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		5CEDEF8429B9D7B20074047D /* Cards */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF8529B9D7C70074047D /* FrontCardView.swift */,
+				5CEDEF9429BAC0660074047D /* BackCardView.swift */,
+				5CD2A71D29BACC3B009DEBE7 /* MiniCard.swift */,
+				5CD2A71F29BAD48F009DEBE7 /* CardFan.swift */,
+			);
+			path = Cards;
+			sourceTree = "<group>";
+		};
+		5CEDEF8729B9D7E30074047D /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF8829B9D7F40074047D /* Constants.swift */,
+				5CD2A72329BB204C009DEBE7 /* LiyAnimation.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		5CEDEF8E29B9DB0C0074047D /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF8F29B9DB4B0074047D /* BundleExtension.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		5CEDEF9129BABF8F0074047D /* Modifiers */ = {
+			isa = PBXGroup;
+			children = (
+				5CEDEF9229BABFAD0074047D /* CardModifier.swift */,
+			);
+			path = Modifiers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,8 +245,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CEDEF8329B9D6670074047D /* decks.json in Resources */,
 				5CEDEF7629B9AD9A0074047D /* Preview Assets.xcassets in Resources */,
 				5CEDEF7329B9AD9A0074047D /* Assets.xcassets in Resources */,
+				5CEDEF8229B9D6670074047D /* cardData.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +259,22 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5CD2A72429BB204C009DEBE7 /* LiyAnimation.swift in Sources */,
+				5CD2A72029BAD48F009DEBE7 /* CardFan.swift in Sources */,
+				5CEDEF8D29B9D9DF0074047D /* Deck.swift in Sources */,
+				5CD2A72929BEDD62009DEBE7 /* DeckViewModel.swift in Sources */,
+				5CD2A72729BEDD30009DEBE7 /* DeckView.swift in Sources */,
+				5CEDEF9529BAC0660074047D /* BackCardView.swift in Sources */,
 				5CEDEF7129B9AD980074047D /* ContentView.swift in Sources */,
 				5CEDEF6F29B9AD980074047D /* AnimalizationApp.swift in Sources */,
+				5CD2A71E29BACC3B009DEBE7 /* MiniCard.swift in Sources */,
+				5CEDEF9029B9DB4B0074047D /* BundleExtension.swift in Sources */,
+				5CEDEF8629B9D7C70074047D /* FrontCardView.swift in Sources */,
+				5CD2A72229BB0666009DEBE7 /* ContentViewModel.swift in Sources */,
+				5CEDEF8929B9D7F40074047D /* Constants.swift in Sources */,
+				5CD2A72B29BF036A009DEBE7 /* DeckStatistic.swift in Sources */,
+				5CEDEF9329BABFAD0074047D /* CardModifier.swift in Sources */,
+				5CEDEF8B29B9D9D20074047D /* Animal.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

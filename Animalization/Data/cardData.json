@@ -1,0 +1,198 @@
+[
+    {
+        "id": 1,
+        "filename": "AidanJarrett_Duck",
+        "photographer": "Aidan Jarrett",
+        "name": "Duck",
+        "answers": ["Cat", "Frog", "Eagle"]
+    },
+    {
+        "id": 2,
+        "filename": "ArtyomKulakov_Fox",
+        "photographer": "Artyom Kulakov",
+        "name": "Fox",
+        "answers": ["Donkey", "Giraffe", "Bear"]
+    },
+    {
+        "id": 3,
+        "filename": "AvaCalvarMartinez_Cow",
+        "photographer": "Ava Calvar Martinez",
+        "name": "Cow",
+        "answers": ["Horse", "Human", "Pickle"]
+    },
+    {
+        "id": 4,
+        "filename": "BasVanBrandwijik_Gazelles",
+        "photographer": "Bas Van Brandwijik",
+        "name": "Gazelle",
+        "answers": ["Egg", "Dragon", "Snake"]
+    },
+    {
+        "id": 5,
+        "filename": "BlueOxStudio_Jellyfish",
+        "photographer": "Blue Ox Studio",
+        "name": "Jellyfish",
+        "answers": ["Dog", "Your Uncle", "Shark"]
+    },
+    {
+        "id": 6,
+        "filename": "ChevaonPhotography_Fish",
+        "photographer": "Chevaon Photography",
+        "name": "Fish",
+        "answers": ["Hawk", "Sheep", "Lion"]
+    },
+    {
+        "id": 7,
+        "filename": "JeremyBishop_Dolphin",
+        "photographer": "Jeremy Bishop",
+        "name": "Dolphin",
+        "answers": ["Fish", "Anteater", "Goat"]
+    },
+    {
+        "id": 8,
+        "filename": "JiriMikolas_Rabbit",
+        "photographer": "Jiri Mikolas",
+        "name": "Rabbit",
+        "answers": ["Horse", "Cow", "Pig"]
+    },
+    {
+        "id": 9,
+        "filename": "JosiahFarrow_Llama",
+        "photographer": "Josiah Farrow",
+        "name": "Llama",
+        "answers": ["Frog", "Fish", "Goat"]
+    },
+    {
+        "id": 10,
+        "filename": "JulieAagaard_Sheep",
+        "photographer": "Julie Aagaard",
+        "name": "Sheep",
+        "answers": ["Llama", "Ant", "Cat"]
+    },
+    {
+        "id": 11,
+        "filename": "KelvinValerio_Cat",
+        "photographer": "Kelvin Valerio",
+        "name": "Cat",
+        "answers": ["Lion", "Tiger", "Bear"]
+    },
+    {
+        "id": 12,
+        "filename": "LauraTheExplaura_Panda",
+        "photographer": "Laura The Explaura",
+        "name": "Panda",
+        "answers": ["Bear", "Tucan", "Snake"]
+    },
+    {
+        "id": 13,
+        "filename": "LeonWoods_Donkey",
+        "photographer": "Leon Woods",
+        "name": "Donkey",
+        "answers": ["Elephant", "Cheetah", "Eagle"]
+    },
+    {
+        "id": 14,
+        "filename": "MagdaEhlers_Giraffe",
+        "photographer": "Magda Ehlers",
+        "name": "Giraffe",
+        "answers": ["Gorilla", "Koala", "Whale"]
+    },
+    {
+        "id": 15,
+        "filename": "MelisaValentin_Deer",
+        "photographer": "Melisa Valentin",
+        "name": "Deer",
+        "answers": ["Chimp", "Dolphin", "Giraffe"]
+    },
+    {
+        "id": 16,
+        "filename": "Pixabay_Pig",
+        "photographer": "Pixabay",
+        "name": "Pig",
+        "answers": ["Penguin", "Alligator", "Zebra"]
+    },
+    {
+        "id": 17,
+        "filename": "Pixabay_Squirrel",
+        "photographer": "Pixabay",
+        "name": "Squirrel",
+        "answers": ["Cat", "Lion", "Panda"]
+    },
+    {
+        "id": 18,
+        "filename": "Pixabay_Wolf",
+        "photographer": "Pixabay",
+        "name": "Wolf",
+        "answers": ["Kangaroo", "Octopus", "Monkey"]
+    },
+    {
+        "id": 19,
+        "filename": "PublicDomainPictures_Lion",
+        "photographer": "Public Domain Pictures",
+        "name": "Lion",
+        "answers": ["Dog", "Gorilla", "Cheetah"]
+    },
+    {
+        "id": 20,
+        "filename": "RoshanKamath_Parakeet",
+        "photographer": "Roshan Kamath",
+        "name": "Parakeet",
+        "answers": ["Crocodile", "Pengine", "Tucan"]
+    },
+    {
+        "id": 21,
+        "filename": "SamLion_Dog",
+        "photographer": "Sam Lion",
+        "name": "Dog",
+        "answers": ["Koala", "Orangutan", "Elephant"]
+    },
+    {
+        "id": 22,
+        "filename": "SimonBerger_Flamingos",
+        "photographer": "Simon Berger",
+        "name": "Flamingo",
+        "answers": ["Crocodile", "Eagle", "Leopard"]
+    },
+    {
+        "id": 23,
+        "filename": "SwapnilPatil_Snake",
+        "photographer": "Swapnil Patil",
+        "name": "Snake",
+        "answers": ["Hotdog", "Lizard", "Dog"]
+    },
+    {
+        "id": 24,
+        "filename": "TarynElliott_Penguine",
+        "photographer": "Taryn Elliott",
+        "name": "Penguin",
+        "answers": ["Parakeet", "Fish", "Gorilla"]
+    },
+    {
+        "id": 25,
+        "filename": "ThierryFillieul_Frog",
+        "photographer": "Thierry Fillieul",
+        "name": "Frog",
+        "answers": ["Orangutan", "Stingray", "Fish"]
+    },
+    {
+        "id": 26,
+        "filename": "ToddTrapani_Chicken",
+        "photographer": "Todd Trapani",
+        "name": "Chicken",
+        "answers": ["Eagle", "Dog", "Flamingo"]
+    },
+    {
+        "id": 27,
+        "filename": "VedranMiletic_Horse",
+        "photographer": "Vedran Meletic",
+        "name": "Horse",
+        "answers": ["Cow", "Goat", "Dog"]
+    },
+    {
+        "id": 28,
+        "filename": "invisiblepower_Snail",
+        "photographer": "invisiblepower",
+        "name": "Snail",
+        "answers": ["Gorilla", "Pig", "Hippopotamus"]
+    }
+]
